@@ -1,0 +1,6 @@
+Created by Weronika Łasowska UAM student.
+ This script is an useful tool for making backups.
+                        -a option is adding path from next argument to the copy list
+                        -r option removes next argument from copy list
+                        -b option makes instant copy of every argument from list
+                        -u option makes a copy of every element which has been updated since last backup
